@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="player_spritesheet.png">
+    <SubTexture name="player_1.png" x="0" y="0" width="64" height="29"/>
+    <SubTexture name="player_2.png" x="0" y="29" width="64" height="29"/>
+    <SubTexture name="player_3.png" x="0" y="58" width="64" height="29"/>
+    <SubTexture name="player_4.png" x="0" y="87" width="64" height="29"/>
+</TextureAtlas>
