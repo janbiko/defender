@@ -1,0 +1,24 @@
+All resources used are free of royalties.
+
+background.jpg: 
+	http://wallpaperswide.com/deep_space-wallpapers.html
+
+explosion.wav: 
+	http://soundbible.com/1222-Time-Bomb-Short.html
+
+shooting_sound.wav: 
+	http://soundbible.com/472-Laser-Blasts.html
+
+player_explosion.wav: 
+	http://soundbible.com/1339-Sonic-Boom.html
+
+player_crash.wav: 
+	http://soundbible.com/2075-RPG-Plus-Shrapnel.html
+
+theme.wav: 
+	https://www.dl-sounds.com/royalty-free/loading-loop/
+
+Sprites: 
+	http://opengameart.org/content/simple-shoot-em-up-sprites-spaceship-starscape-ufo-0
+
+
