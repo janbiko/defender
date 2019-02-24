@@ -1,11 +1,8 @@
 # Defender
 
-The classic arcade game implemented with python.
-
-
-## GitHub How-To
-
-- Introduction: https://try.github.io/levels/1/challenges/1
-- Workflow: https://guides.github.com/introduction/flow/
-- Hello World: https://guides.github.com/activities/hello-world/
+An arcade endless shooter implemented with python, using pygame.
 - PyGame: http://www.pygame.org/download.shtml
+
+
+### Screenshots:
+![screenshots](https://raw.githubusercontent.com/janbiko/defender/master/screenshots/screens.png)
